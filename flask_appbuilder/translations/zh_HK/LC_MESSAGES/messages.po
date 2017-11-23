@@ -24,7 +24,6 @@ msgstr "訪問被拒絕"
 
 #: flask_appbuilder/fields.py:77 flask_appbuilder/fields.py:79
 #: flask_appbuilder/fields.py:131 flask_appbuilder/fields.py:138
-#, fuzzy
 msgid "Not a valid choice"
 msgstr "選擇無效"
 
@@ -148,7 +147,6 @@ msgid "Smaller than"
 msgstr "小於"
 
 #: flask_appbuilder/models/generic/filters.py:55
-#, fuzzy
 msgid "Start with"
 msgstr "以開始"
 
@@ -240,7 +238,6 @@ msgid "Last Name"
 msgstr "姓"
 
 #: flask_appbuilder/security/forms.py:36 flask_appbuilder/security/forms.py:53
-#, fuzzy
 msgid "Email"
 msgstr "電子郵箱"
 
@@ -438,7 +435,6 @@ msgid "Username valid for authentication on DB or LDAP, unused for OID auth"
 msgstr "用戶名將被用於數據庫或LDAP認證，不用於OID驗證"
 
 #: flask_appbuilder/security/views.py:122
-#, fuzzy
 msgid "It's not a good policy to remove a user, just make it inactive"
 msgstr "不建議刪除用戶，只需禁用即可"
 
@@ -638,7 +634,6 @@ msgid "Please choose a provider"
 msgstr "請選擇下列選項之一"
 
 #: flask_appbuilder/templates/appbuilder/general/security/login_oid.html:107
-#, fuzzy
 msgid "Enter your OpenID Username"
 msgstr "或在此處輸入您的OpenID"
 
